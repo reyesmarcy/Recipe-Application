@@ -12,5 +12,4 @@ In the Recipes file, I created a simple console user interface for my applicatio
 
 You’ll also see that I’ve added a recipes_ui.py file, in which I’ve created a GUI to display the various recipes for a selected category, 
 while displaying the recipe instructions on the right-hand side of the interface. 
-
-When running these files, please run the recipes.py module to see the console UI with full capabilities and the recipes_ui.py module to see the GUI that displays all recipes by category.  
+  
