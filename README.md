@@ -8,7 +8,9 @@ I’ve also created API calls to retrieve recipe instructions for each meal.
 The object file is where I defined the class objects (i.e., category, meal, recipe, area) to make working with the data
 retrieved from the API easier. 
 The Request File is the file in which the API calls were coded. 
-In the Recipes file, I created a simple console user face for my application. 
+In the Recipes file, I created a simple console user interface for my application. 
 
 You’ll also see that I’ve added a recipes_ui.py file, in which I’ve created a GUI to display the various recipes for a selected category, 
 while displaying the recipe instructions on the right-hand side of the interface. 
+
+When running these files, please run the recipes.py module to see the console UI with full capabilities and the recipes_ui.py module to see the GUI that displays all recipes by category.  
